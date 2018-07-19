@@ -21,7 +21,7 @@ GitHub介绍可以点[这里](https://zh.wikipedia.org/zh-hans/GitHub)
 ## 附件
 
 送上自己常用的git命令自查表  
-![Git命令自查表]()
+![Git命令自查表](https://github.com/JosanSun/CtripTechExch/blob/master/pic/josan/gitcheck.jpg)
 
 ## 相关学习
 
