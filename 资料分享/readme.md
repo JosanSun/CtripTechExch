@@ -23,15 +23,17 @@
 
 - 链接：https://pan.baidu.com/s/1a0PjNtX3OdD0TlJjj_YE4g 密码：sigw
 
-### 目前已有
+### 目前已有的资料统计
+
+![资料截图](https://github.com/JosanSun/CtripTechExch/blob/master/pic/josan/book-content.png)  
+截图界面
+
 
 ## 视频
 
 - 待补充
 
-## 资料截图
-
-![资料截图](https://github.com/JosanSun/CtripTechExch/blob/master/pic/josan/book-content.png)
+## 补充说明
 
 - 链接失效的话，请及时联系@[Josan](https://github.com/JosanSun)补链。
 
