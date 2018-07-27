@@ -1,0 +1,38 @@
+# Change Log
+# All notable changes to this project will be documented in this file.
+# The address of the repo: https://github.com/JosanSun/CtripTechExch
+
+## [0.0.4] 2018-07-27
+### Added
+- 增加【资料分享】文件夹，用来存放资料分享信息
+- 增加CHANGLOG，也就是更新日志
+
+## [0.0.3] 2018-07-24
+### Added
+- 增加文章【Git教程-如何防止出现多次输入密码】
+### Fixed
+- 修复原来的上传者为zs.sun，Github无法跟踪commits的问题。（就是，Github无法记录这个仓库的活跃度）
+
+## [0.0.2] 2018-07-19
+### Added
+- 增加git教程.
+- 安利两个效率工具，everything以及snipaste.
+ 
+## [0.0.1] 2018-07-17
+### Added
+- 创建【携程技术交流仓库】
+
+
+------------CHANGELOG书写格式----------------
+### Added
+- 这里说明增加了什么内容
+### FIX
+- 这里说明修复了什么BUG
+### Changed
+- 这里说明修改什么内容
+### BUG
+- 这是汇报已知的BUG信息
+### ToDoList
+- 这里存在未来的计划
+
+
