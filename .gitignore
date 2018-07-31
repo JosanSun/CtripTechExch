@@ -5,3 +5,11 @@
 
 # 忽略我的个人文件夹
 usedByJosan
+
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+out/
