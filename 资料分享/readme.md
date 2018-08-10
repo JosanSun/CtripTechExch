@@ -23,6 +23,10 @@
 
 - 链接：https://pan.baidu.com/s/1a0PjNtX3OdD0TlJjj_YE4g 密码：sigw
 
+> 20180810 增加常用软件的分享
+
+- 我携共享软件的地址，可以在我的电脑里面输入： `\\cn1\ctrip\工具区\Restrained\技术研发中心\数据库\MySQL ` 访问携程的共享软件。
+
 ### 目前已有的资料统计
 
 ![资料截图](https://github.com/JosanSun/CtripTechExch/blob/master/pic/josan/book-content.png)  
